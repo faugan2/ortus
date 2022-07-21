@@ -29,8 +29,7 @@ export default function Menu() {
                 <SearchOutlinedIcon style={{color:"gray"}} />
             </div>
             <button className="flex flex-col items-center hover:opacity-50">
-                <PermIdentityOutlinedIcon style={{fontSize:20}} />
-                <span className="text-sm">Connexion</span>
+                <PermIdentityOutlinedIcon style={{fontSize:25,color:"gray"}} />
             </button>
         </div>
     </div>
